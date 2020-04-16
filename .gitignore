@@ -114,6 +114,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+./frontend/node_modules/
 
 # Typescript v1 declaration files
 typings/
@@ -291,3 +292,5 @@ settings.json
 # Remove sqlite3 from vc
 db.sqlite3
 db.sqlite3.backup
+
+
